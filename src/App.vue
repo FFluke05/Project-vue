@@ -21,13 +21,16 @@
             <li class="nav-item">
               <a class="nav-link nav-link-3d" href="/contact">Contact</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link nav-link-3d" href="/grade">Grade</a>
+            </li>
             <li class="nav-item dropdown">
               <a class="nav-link nav-link-3d dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
-                Dropdown link
+                API
               </a>
               <ul class="dropdown-menu dropdown-3d">
-                <li><a class="dropdown-item item-3d" href="#">Action</a></li>
+                <li><a class="dropdown-item item-3d" href="golds">ราคาทองวันนี้</a></li>
                 <li><a class="dropdown-item item-3d" href="#">Another action</a></li>
                 <li>
                   <hr class="dropdown-divider hr-3d">
@@ -47,7 +50,6 @@
 
 <style scoped>
 .navbar-wrapper {
-  padding: 1rem 1rem 0;
   position: sticky;
   top: 0;
   z-index: 1000;
