@@ -31,11 +31,9 @@
               </a>
               <ul class="dropdown-menu dropdown-3d">
                 <li><a class="dropdown-item item-3d" href="golds">ราคาทองวันนี้</a></li>
-                <li><a class="dropdown-item item-3d" href="#">Another action</a></li>
-                <li>
-                  <hr class="dropdown-divider hr-3d">
-                </li>
-                <li><a class="dropdown-item item-3d" href="#">Something else here</a></li>
+                <li><a class="dropdown-item item-3d" href="product_api">สินค้า</a></li>
+                <li><a class="dropdown-item item-3d" href="product_table">แสดงสินค้าเป็นตาราง</a></li>
+                <li><a class="dropdown-item item-3d" href="Users">แสดงผู้ใช้</a></li>
               </ul>
             </li>
           </ul>
